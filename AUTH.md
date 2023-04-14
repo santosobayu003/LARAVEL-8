@@ -14,3 +14,6 @@ php artisan ui bootstrap –auth
 
 ![image](https://user-images.githubusercontent.com/59097891/232068178-1cb33dc8-5462-4f0b-90fc-b8cff4efbcd5.png)
 
+php artisan migrate
+
+![image](https://user-images.githubusercontent.com/59097891/232083905-1e0103d2-8b7b-4646-8fbe-80a00bcf1115.png)
